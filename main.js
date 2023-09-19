@@ -1,4 +1,4 @@
-import * as THREE from './three.module';
+import * as THREE from './three.module.js';
 
 document.onload = function () {
     const canvas = document.querySelector("#c");
